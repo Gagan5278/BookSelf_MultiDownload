@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://aequor.myvnc.com/aequorsvn/repos/Bausch/BTODKorean/BOOKSelf/BOOKSelf
+https://aequor.myvnc.com/aequorsvn/repos
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ae4e1db-3cfe-47f2-a4e9-ec700f44cce2
+
+main.m
+file
+
+
+
+add
+
+Default@2x.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+URLConnection
+dir
+
+
+
+add
+
+en.lproj
+dir
+
+
+
+add
+
+BOOKSelf-Info.plist
+file
+
+
+
+add
+
+DownloadManager_ASIHTTP
+dir
+
+
+
+add
+
+AppDelegate.h
+file
+
+
+
+add
+
+Images
+dir
+
+
+
+add
+
+AppDelegate.m
+file
+
+
+
+add
+
+Default.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+BOOKSelf-Prefix.pch
+file
+
+
+
+add
+
+Default-568h@2x.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+AppDelegate
+dir
+
+
+
+add
+
+ASIHTTP
+dir
+
+
+
+add
+
+ViewController
+dir
+
+
+
+add
+
